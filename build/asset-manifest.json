@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/deploy/static/css/main.3e387c2f.css",
+    "main.js": "/deploy/static/js/main.6bad65c2.js",
+    "static/media/zombie.mpeg": "/deploy/static/media/zombie.b912ecd90162b6056f3f.mpeg",
+    "static/media/abomvelo.mpeg": "/deploy/static/media/abomvelo.3f37e089d3e0d8038e52.mpeg",
+    "static/media/ojorley.mpeg": "/deploy/static/media/ojorley.8c98a5f91265f004542b.mpeg",
+    "static/media/tomorrow.mpeg": "/deploy/static/media/tomorrow.de355763e19ba6c4f378.mpeg",
+    "static/media/backFull.jpg": "/deploy/static/media/backFull.165adc81a86e4103eb5f.jpg",
+    "static/media/backgroundMedium.jpg": "/deploy/static/media/backgroundMedium.1f5f682f0738fc08c29d.jpg",
+    "static/media/cinasoulhistory.jpg": "/deploy/static/media/cinasoulhistory.2f7ec7882fea40b29dc0.jpg",
+    "static/media/fellakutihistory.jpg": "/deploy/static/media/fellakutihistory.d967f0a5090dabf1146e.jpg",
+    "static/media/home_background.png": "/deploy/static/media/home_background.5c0f1c29506be7a1163b.png",
+    "static/media/zombiecover.png": "/deploy/static/media/zombiecover.40fde13eef474b80def6.png",
+    "static/media/Inanahistory.jpg": "/deploy/static/media/Inanahistory.d054fce35baf4595c1a2.jpg",
+    "static/media/hero.jpg": "/deploy/static/media/hero.0e925f2b29cce60109ea.jpg",
+    "static/media/Daliwongahistory.jpg": "/deploy/static/media/Daliwongahistory.64789765dfd4451d600f.jpg",
+    "static/media/tomorrowcover.webp": "/deploy/static/media/tomorrowcover.a87456bd4b887701808a.webp",
+    "static/media/Inama.jpg": "/deploy/static/media/Inama.fdeb423b985ca135a0ab.jpg",
+    "static/media/Abomvelocover.jpg": "/deploy/static/media/Abomvelocover.6ce8a9d820adfda252f2.jpg",
+    "static/media/darkovibeshistory.jpg": "/deploy/static/media/darkovibeshistory.435361c1e62460babc72.jpg",
+    "static/media/darkovibes.jpg": "/deploy/static/media/darkovibes.f5fc8c114da46a0bd7f9.jpg",
+    "static/media/daliwonga.jpg": "/deploy/static/media/daliwonga.d30a674cbb99da4bda3e.jpg",
+    "static/media/ojorleycover.jpeg": "/deploy/static/media/ojorleycover.ceb62ee4b4e36047bb62.jpeg",
+    "static/media/fellakuti.webp": "/deploy/static/media/fellakuti.9f88ebba22b3e63e9eb4.webp",
+    "static/media/cinasoul.jpg": "/deploy/static/media/cinasoul.66f0988a8a83f47c0fcd.jpg",
+    "static/media/diamondplatnumzcover.jpg": "/deploy/static/media/diamondplatnumzcover.c89ebe8a0a3238c95137.jpg",
+    "index.html": "/deploy/index.html",
+    "main.3e387c2f.css.map": "/deploy/static/css/main.3e387c2f.css.map",
+    "main.6bad65c2.js.map": "/deploy/static/js/main.6bad65c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e387c2f.css",
+    "static/js/main.6bad65c2.js"
+  ]
+}
